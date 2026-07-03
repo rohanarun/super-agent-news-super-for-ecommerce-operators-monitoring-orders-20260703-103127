@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[superkind.ai](https://superkind.ai/industries/retail)",
+    "[pinksheep.ai](https://www.pinksheep.ai/for/ecommerce)",
+    "[yahoo.com](https://finance.yahoo.com)",
+    "[blog.google](https://blog.google)",
+    "[scmedia.com](https://www.scmagazine.com)",
+    "[mit.edu](https://news.mit.edu)"
+  ],
+  "design_plan": "rng=42; AIDA_pass=true; hero_lines=3; bento_density=grid-auto-flow:dense; labels_checked=true; button_contrast=AA",
+  "generated_at": "2026-07-03T10:31:34.377766+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page for ecommerce operators who live inside Shopify, support inboxes, and back\u2011office tools all day. It ties current 2026 evidence around agentic AI, computer\u2011use automation, and security risks to real ecommerce workflows, then positions Super as the sharper, safer alternative for repeated computer\u2011use work thanks to its reusable computer\u2011use cache."
+}
